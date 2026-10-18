@@ -1,0 +1,33 @@
+{
+  "id": "./",
+  "name": "APK Klanı",
+  "short_name": "APK Klanı",
+  "description": "Yeni Bir APK; Yeni Bir Hayat! Android oyunlarını tek yerde bul, tek dokunuşla indir.",
+  "lang": "tr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030304",
+  "theme_color": "#030304",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
